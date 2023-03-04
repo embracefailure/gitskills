@@ -14,8 +14,12 @@
 ## Creating a new branch is quick and simple.
 ### Testing forbidding fast forward mode.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> add merge
 =======
 #### Git is a free software.
 >>>>>>> fix bug 101
+=======
+# Git is a free software.
+>>>>>>> fix bug 102
