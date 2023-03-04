@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Creating a new branch is quick.
 ### I want to figure out how to edit markdown files in visual studio code
 =======
@@ -23,3 +24,7 @@
 =======
 # Git is a free software.
 >>>>>>> fix bug 102
+=======
+## Creating a new branch is quick.
+### I want to figure out how to edit markdown files in visual studio code
+>>>>>>> returning to the very first
